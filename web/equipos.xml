@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet href="equipos.xsl" type="text/xsl"?>
+
+<equipos>
+    <equipo categoria="Primera">
+        <nombre>Club VolleyTeam</nombre>
+        <entrenador>
+            <nombre>Julio Velasco</nombre>
+            <url>https://es.wikipedia.org/wiki/Julio_Velasco</url>
+        </entrenador>
+        <jugadores>
+            <jugador camiseta="7" titular="si">
+                <nombre>Luis García</nombre>
+                <posicion>Atacante</posicion>
+                <nacionalidad>Argentina</nacionalidad>
+            </jugador>
+            <jugador camiseta="3" titular="no">
+                <nombre>Ana Silva</nombre>
+                <posicion>Libero</posicion>
+                <nacionalidad>Brasil</nacionalidad>
+            </jugador>
+            <jugador camiseta="12" titular="si">
+                <nombre>Silvia Ramos</nombre>
+                <posicion>Libero</posicion>
+                <nacionalidad>Chile</nacionalidad>
+            </jugador>
+        </jugadores>
+    </equipo>
+    <equipo categoria="Segunda">
+        <nombre>Club VolleyTeam</nombre>
+        <entrenador>
+            <nombre>Arie Selinger</nombre>
+            <url>https://es.wikipedia.org/wiki/Arie_Selinger</url>
+        </entrenador>
+        <jugadores>
+            <jugador camiseta="7" titular="si">
+                <nombre>Luis García</nombre>
+                <posicion>Atacante</posicion>
+                <nacionalidad>Argentina</nacionalidad>
+            </jugador>
+            <jugador camiseta="3" titular="no">
+                <nombre>Ana Silva</nombre>
+                <posicion>Libero</posicion>
+                <nacionalidad>Brasil</nacionalidad>
+            </jugador>
+            <jugador camiseta="12" titular="si">
+                <nombre>Silvia Ramos</nombre>
+                <posicion>Libero</posicion>
+                <nacionalidad>Chile</nacionalidad>
+            </jugador>
+        </jugadores>
+    </equipo>
+</equipos>

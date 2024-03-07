@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet href="partidos.xsl" type="text/xsl"?>
+
+<partidos>
+    <partido>
+        <lugar ciudad="Lima">Estadio Nacional</lugar>
+        <fecha>2023-08-01</fecha>
+        <equipos>
+            <local puntuacion="25">Equipo A</local>
+            <visitante puntuacion="20">Equipo B</visitante>
+        </equipos>
+        <arbitro categoria="internacional">
+            <nombre>Juan Pérez</nombre>
+            <nacionalidad>Argentina</nacionalidad>
+        </arbitro>
+    </partido>
+    <partido>
+        <lugar ciudad="Lima">Estadio Central</lugar>
+        <fecha>2023-04-01</fecha>
+        <equipos>
+            <local puntuacion="20">Equipo B</local>
+            <visitante puntuacion="25">Equipo A</visitante>
+        </equipos>
+        <arbitro categoria="internacional">
+            <nombre>Juan Pérez</nombre>
+            <nacionalidad>Argentina</nacionalidad>
+        </arbitro>
+    </partido>
+</partidos>
